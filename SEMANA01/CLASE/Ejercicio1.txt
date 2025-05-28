@@ -1,0 +1,1 @@
+Elaborar un programa que permita el ingreso desde el teclado, el precio y la cantidad a comprar de un determinado producto. El programa de calcular e indicar el importe total a pagar.
